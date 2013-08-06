@@ -5,7 +5,7 @@
  */
 #addToHomeScreen {
 	position:absolute;
-	z-index:9999;
+	z-index:99999;
 	-webkit-user-select:none;
 	user-select:none;
 	-webkit-box-sizing:border-box;
